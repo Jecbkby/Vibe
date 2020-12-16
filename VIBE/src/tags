@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+VIBE	vibe.cpp	/^VIBE::VIBE(int channels, int samples, int pixel_neighbor, int distance_threshold, int matching_threshold, int update_factor):$/;"	f	class:vibe::VIBE
+getMask	vibe.cpp	/^cv::Mat& VIBE::getMask()$/;"	f	class:vibe::VIBE
+getRndNeighbor	vibe.cpp	/^cv::Vec2i VIBE::getRndNeighbor(int i, int j)$/;"	f	class:vibe::VIBE
+init	vibe.cpp	/^void VIBE::init(const cv::Mat &img)$/;"	f	class:vibe::VIBE
+update	vibe.cpp	/^void VIBE::update(const cv::Mat& img)$/;"	f	class:vibe::VIBE
+vibe	vibe.cpp	/^namespace vibe$/;"	n	file:
+~VIBE	vibe.cpp	/^VIBE::~VIBE()$/;"	f	class:vibe::VIBE
